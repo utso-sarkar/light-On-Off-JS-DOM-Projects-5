@@ -1,0 +1,14 @@
+#balb{
+ height: 400px;
+ width: 400px;
+ border-radius: 50%;
+ border:2px solid black;
+
+}
+button{
+    padding:30px 50px;
+    font-size: 20px;
+    margin-top: 25px;
+   margin-left: 110px;
+
+}
